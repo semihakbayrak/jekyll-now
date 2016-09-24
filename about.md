@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Education
 
-### More Information
+⋅⋅* Istanbul Ataturk High School of Science(2006-2010)
+⋅⋅* Bogazici University Electrical-Electronics Engineering BSc.(2010-2015)
+⋅⋅* Bogazici University Computational Science MSc.(2015-Cont.)
 
-A place to include any other types of information that you'd like to include about yourself.
+### Academic interests
+
+I am studying Machine Learning as a master student at Bogazici University currently. Although I am mostly concentrated on theorethical aspects of Machine Learning and Deep Learning, I am developing Natural Language Processing and Computer Vision applications as well.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[semihakbayrak@gmail.com](mailto:email@domain.com)
