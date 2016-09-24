@@ -6,11 +6,11 @@ permalink: /about/
 
 ### Education
 
-⋅⋅* Istanbul Ataturk High School of Science(2006-2010)
+Istanbul Ataturk High School of Science(2006-2010)
 
-⋅⋅* Bogazici University Electrical-Electronics Engineering BSc.(2010-2015)
+Bogazici University Electrical-Electronics Engineering BSc.(2010-2015)
 
-⋅⋅* Bogazici University Computational Science MSc.(2015-Cont.)
+Bogazici University Computational Science MSc.(2015-Cont.)
 
 ### Academic interests
 
