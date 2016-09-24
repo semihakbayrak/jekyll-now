@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![alt text](https://avatars3.githubusercontent.com/u/5678359?v=3&s=466 "SA")
+
 ### Education
 
 Istanbul Ataturk High School of Science(2006-2010)
