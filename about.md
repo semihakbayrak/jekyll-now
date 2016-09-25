@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![alt text](https://avatars3.githubusercontent.com/u/5678359?v=3&s=466 "SA")
+![alt text](https://cdn-images-1.medium.com/fit/c/100/100/1*h7x_8sAG39IJeT6JOhbSKg.jpeg "SA")
 
 ### Education
 
