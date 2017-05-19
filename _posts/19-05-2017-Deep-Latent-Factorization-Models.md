@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Deep Latent Factorization Models Deneme
+---
 
 ```python
 import numpy as np
