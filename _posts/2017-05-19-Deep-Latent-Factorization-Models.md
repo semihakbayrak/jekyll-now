@@ -525,7 +525,7 @@ plt.show()
 ```
 
 
-![png]({{https://github.com/semihakbayrak/semihakbayrak.github.io/blob/master/_posts}}/output_14_0.png)
+![alt text](https://github.com/semihakbayrak/semihakbayrak.github.io/blob/master/_posts/output_14_0.png "Deneme")
 
 
 
