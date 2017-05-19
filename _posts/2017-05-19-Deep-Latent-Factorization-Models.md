@@ -525,7 +525,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](_posts/output_5_0.png)
 
 
 
