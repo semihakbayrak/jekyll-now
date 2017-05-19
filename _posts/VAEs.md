@@ -1,5 +1,7 @@
-
-
+---
+layout: post
+title: deneme
+---
 ```python
 %matplotlib inline
 import numpy as np
