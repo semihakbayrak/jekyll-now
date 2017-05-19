@@ -525,7 +525,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](https://github.com/semihakbayrak/semihakbayrak.github.io/tree/master/_posts/output_5_0.png)
 
 
 
