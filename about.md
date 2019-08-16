@@ -12,7 +12,7 @@ Istanbul Ataturk High School of Science(2006-2010)
 
 Bogazici University Electrical-Electronics Engineering BSc.(2010-2015)
 
-Bogazici University Computational Science MSc.(2015-2018)
+Bogazici University Computational Science MSc.(2015-2018) - You can reach my master thesis "Tensor Decomposition Models for Knowledge Graphs" [here](https://semihakbayrak.github.io/assets/Thesis_Knowledge_Graph__SCPF.pdf)
 
 ### Contact me
 
