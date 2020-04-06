@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Online Natural Gradient as a Kalman Filter
+---
 
 ```julia
 using ForwardDiff, Plots, LinearAlgebra
